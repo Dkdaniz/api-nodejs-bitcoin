@@ -1,0 +1,10 @@
+*/.idea/
+
+/build/
+
+/temp/*
+!/temp/.gitkeep
+
+.DS_Store
+node_modules
+bitcoin.conf
