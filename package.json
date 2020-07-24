@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@carnesen/bitcoin-rpc": "^0.0.0",
+    "@types/node": "^14.0.25",
     "bcryptjs": "^2.4.3",
     "bitcoin-core": "^3.0.0",
     "date-fns": "^2.12.0",
